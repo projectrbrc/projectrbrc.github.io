@@ -1,0 +1,87 @@
+<amp-sidebar id='sidebar' side='right' layout='nodisplay'>
+  <form class="menu-layer primary" action="/" target="_top">
+    <button type="reset" class="close-button" id="menu-button" on='tap:sidebar.toggle'></button>
+    <div class="items">
+        <a class="menu-item item-layer-1" href="/harga.html">
+        Harga Sewa
+        </a>
+        <a class="menu-item item-layer-1" href="/testimoni.html">
+        Testimoni
+        </a>
+        <a class="menu-item item-layer-1" href="/blog.html">
+        Whats News
+        </a>
+        <a class="menu-item item-layer-1" href="/tentang-kami.html">
+        Tentang Kami
+        </a>
+        <a class="menu-item item-layer-1" href="/faqs.html">
+        FAQs
+        </a>
+        <a class="item-layer-1" href="tel:+6282230908740">
+          <amp-img
+            noloading
+            height=30
+            width=30
+            layout=fixed
+            src="/static/img/phones-symbol.svg">
+          </amp-img>
+        </a>
+        <a class="item-layer-1" href="sms:+6282230908740">
+          <amp-img
+            noloading
+            height=30
+            width=30
+            layout=fixed
+            src="/static/img/sms-black.svg">
+          </amp-img>
+        </a>
+        <a class="item-layer-1" href="https://goo.gl/jTs6l3">
+          <amp-img
+            noloading
+            height=30
+            width=30
+            layout=fixed
+            src="/static/img/whatsapp-symbol.svg">
+          </amp-img>
+        </a>
+
+    </div>
+  </form>
+</amp-sidebar>
+
+  <div class="wrap">
+    <div class="content">
+      <header class="header fixed">
+        <div class="container">
+          <div class="nav-container">
+            <div class="left-nav alt">
+              <a href="/" class="tab header-title"><span></span></a>
+              <div class="tabs">
+                <div class="tab">
+                  <a href="/harga.html">Harga Sewa</a>
+                </div>
+                <div class="tab">
+                  <a href="/testimoni.html">Testimoni</a>
+                </div>
+                <div class="tab">
+                  <a href="/blog.html">What's News</a>
+                </div>
+                <div class="tab">
+                  <a href="/tentang-kami.html">Tentang Kami</a>
+                </div>
+                <div class="tab">
+                  <a href="/faqs.html">FAQs</a>
+                </div>
+              </div>
+            </div>
+            <div class="right alt">
+              <form action="//www.google.com/search" method="get" class="searchbar" target="_top">
+                <input class="query" name="q" type="text">
+                <input name="as_sitesearch" type="hidden" value="rbrentcar.com">
+                <button name="search" type="submit"></button>
+              </form>
+              <button class="tab hamburger" id="menu-button" on='tap:sidebar.toggle'></button>
+            </div>
+          </div>
+        </div>
+      </header>

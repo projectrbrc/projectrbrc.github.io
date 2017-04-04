@@ -1,0 +1,181 @@
+---
+layout: home
+title: Rental Mobil Tulungagung
+---
+<section class="hero">
+  <div class="container">
+    <div class="hero-image">
+      <div class="lines">
+  <div class="animated-lines-big">
+  </div>
+      </div>
+      <div class="phone">
+        <amp-img
+            noloading
+            height=1423
+            width=1200
+            layout=responsive
+            src="/static/img/home/home_hero_phone.png">
+        </amp-img>
+      </div>
+      <div class="latest-mobile tablet-down">
+        <h2 class="latest-label">Berita Terbaru</h2>
+        <amp-carousel class="latest-carousel"
+          	height="200"
+          	layout="flex-item"
+          	type="slides"
+          	autoplay
+            delay="2000">
+            {% for post in site.posts %}
+            <div class="card-container">
+              <a href="{{ post.url }}" class="card">
+                <div class="card-inner">
+                  <div class="card-type text-label news">
+                    {{ post.title }}
+                  </div>
+                  <div class="card-content small">
+                    {{ post.title }}
+                  </div>
+                  <div class="card-date light">
+                    {{ post.date | date: "%d %B %Y" }}
+                  </div>
+                </div>
+              </a>
+            </div>
+            {% endfor %}
+        </amp-carousel>
+      </div>
+    </div>
+    <div class="hero-content">
+      <div class="intro-container">
+        <h1>Yuk Buat bareng-bareng, pake together.</h1>
+        <p class="intro">Together adalah icon dari Durex, Together adalah icon dari DurexTogether adalah icon dari DurexTogether adalah icon dari DurexTogether </p>
+        <a class="button" href="harga.html">
+          Harga Sewa
+        </a>
+        <br class="tablet-down">
+        <span class="cta_connector light">atau</span>
+        <a class="cta" href="tel:+6282230908740">
+          <amp-img
+            noloading
+            height=30
+            width=30
+            layout=fixed
+            src="/static/img/phones-symbol.svg">
+          </amp-img>
+          <b>082230908740</b>
+        </a>
+      </div>
+<div class="latest tablet-up">
+        <h3 class="latest-label light">Berita Terbaru</h3>
+        <amp-carousel class="latest-carousel tablet-up"
+          height="255"
+          layout="flex-item"
+          type="slides">
+          <div class="card-container">
+              {% for post in site.posts limit:2 %}
+              <a href="{{ post.url }}" class="card">
+                <div class="card-inner">
+                  <div class="card-type text-label news">
+                    {{ post.title }}
+                  </div>
+                  <div class="card-content small">
+                    {{ post.title }}
+                  </div>
+                  <div class="card-date light">
+                    {{ post.date | date: "%d %B %Y" }}
+                  </div>
+                </div>
+              </a>
+              {% endfor %}
+              <a href="https://klikada.com" class="card">
+                <div class="card-inner">
+                  <div class="card-type text-label news">
+                    Bagian Ku
+                  </div>
+                  <div class="card-content small">
+                    Iklan Gila kene
+                  </div>
+                  <div class="card-date light">
+                    March 14, 2017
+                  </div>
+                </div>
+              </a>
+            </div>
+        </amp-carousel>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="success-stories">
+  <h1>Apa kata pelanggan kami ?</h1>
+  <div class="container">
+    <div class="row">
+      <div class="twelve columns">
+      <!-- dekstop testimoni -->
+        <amp-carousel class="success-carousel desktop-up"
+          height="400"
+          layout="flex-item"
+          type="slides">
+          <div class="card-container">
+            <a class="card centered wired" href="https://klikada.com">
+              <div class="card-inner">
+                <div class="card-content">
+                  <p>“Iki bagian sing gawe gawe pasang iklan, ben maleh terkenal trus akeh order trus dadi artis maen pilem maen sinetron bintang iklan, trus ra garap front end developer maneh.”</p>
+                </div>
+                  <amp-img class="card-icon"
+                      noloading
+                      height="400"
+                      width="1298"
+                      layout=responsive
+                      src="/static/img/klikada-panjang.svg">
+                  </amp-img>
+              </div>
+            </a>
+            {% for item in site.testimoni limit:2 %}       
+            <a class="card centered wapo" href="{{ item.website_pelanggan }}">
+              <div class="card-inner">
+                <div class="card-content">
+                  <p>“{{ item.komentar }}.”</p>
+                </div>
+                <amp-img class="card-icon"
+                    noloading
+                    height="{{ item.gambar_height }}"
+                    width="{{ item.gambar_width }}"
+                    layout=responsive
+                    src="{{ item.gambar_pelanggan }}">
+                </amp-img>
+              </div>
+            </a>
+            {% endfor %}
+          </div>
+        </amp-carousel>
+        <amp-carousel class="success-carousel mobile-down"
+          	height="400"
+          	layout="flex-item"
+          	type="slides"
+            autoplay
+            delay="2000">
+          {% for item in site.testimoni %}
+          <a class="card-container" href="{{ item.website_pelanggan }}">
+            <div class="card centered wapo">
+              <div class="card-inner">
+                <div class="card-content">
+                  <h2>“{{ item.komentar }}”</h2>
+                </div>
+                <amp-img class="card-icon"
+                    noloading
+                    height="{{ item.gambar_height }}"
+                    width="{{ item.gambar_width }}"
+                    layout=responsive
+                    src="{{ item.gambar_pelanggan }}">
+                </amp-img>
+              </div>
+            </div>
+            </a>
+          {% endfor %}
+        </amp-carousel>
+      </div>
+    </div>
+  </div>
+</section>

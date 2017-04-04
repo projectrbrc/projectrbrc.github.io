@@ -1,0 +1,25 @@
+---
+layout: post
+title: Whats News
+---
+{% for post in site.posts %}
+<a href="{{ post.url }}" class="card">
+  <div class="card-inner">
+    <amp-img alt="{{ item.jenis_kendaraan }}"
+      height="300"
+      width="480"
+      layout="responsive"
+      noloading
+      src="{{ post.gambar }}">
+    </amp-img>
+    <div class="card-meta">
+      <span class="card-type text-label">{{ post.penulis }}</span>
+      <span class="card-date light">{{ post.date | date: "%d %B %Y" }}</span>
+    </div>
+    <div class="card-title">
+      <h4>{{ post.title }}</h4>
+      <h6>{{ post.excerpt }}</h6>
+    </div>
+  </div>  
+</a>
+{% endfor %}

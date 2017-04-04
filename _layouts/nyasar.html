@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html ⚡ lang="en">
+<head>
+<!-- metadata -->{% include metadata.html %}
+<title>{{ page.title }} - Rental Mobil Tulungagung</title>
+<!-- favicon -->{% include favicon.html %}
+<!-- canonical -->{% include canonical.html %}
+<!-- manifest -->{% include manifes.html %}
+<!-- apple-mobile -->{% include apple-mobile.html %}
+<!-- font -->{% include font.html %}
+<!-- amp-project -->{% include amp-project.html %}
+<!-- amp-sidebar -->{% include amp-sidebar-js.html %}
+<!-- amp-accordion -->
+<!-- amp-analytics -->{% include amp-analytics-js.html %}
+<!-- amp-install-serviceworker -->{% include amp-install-serviceworker-js.html %}
+<!-- amp-form-js -->{% include amp-form-js.html %}
+<!-- amp-carousel-js -->{% include amp-carousel-js.html %}
+<!-- amp-custom-about -->{% include amp-custom-about.html %}
+<!-- amp-boilerplate -->{% include amp-boilerplate.html %}
+{% if page.url == "/404.html" %}
+  <meta http-equiv="refresh" content="5; url=/">
+{% endif %}
+</head>
+<body class="about-who-vertical">
+<!-- analytics -->{% include analytics.html %}
+<!-- nav -->{% include nav.html %}
+<div class="wrap">
+<div class="about-who-block advertisers"> 
+<!-- breadcrumb -->
+<div class="container xl">
+{{ content }}
+</div>
+<!-- cta-large -->{% include cta-large.html %}
+</div>
+
+<!-- footer -->{% include footer.html %}
+<!-- serviceworker -->{% include serviceworker.html %}
+</body>
+</html>

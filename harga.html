@@ -1,0 +1,43 @@
+---
+layout: price
+title: Harga Sewa
+---
+{% for item in site.harga %}
+<a class="card">
+  <div class="card-inner">
+    <amp-img alt="{{ item.jenis_kendaraan }}"
+        height="300"
+        width="480"
+        layout="responsive"
+        noloading
+        src="{{ item.image_path }}"
+        ></amp-img>
+    <div class="card-title">
+      <h4><b>{{ item.jenis_kendaraan }}</b></h4>
+      <div class="card-meta">
+        <span class="card-type text-label">Harga</span>
+        <span class="card-date light">{{ item.harga_12 }}</span>
+      </div>
+      <div class="card-meta">
+        <span class="card-type text-label">Durasi</span>
+        <span class="card-date light">12 Jam</span>
+      </div>
+      <div class="card-meta">
+        <span class="card-type text-label">Harga</span>
+        <span class="card-date light">{{ item.harga_24 }}</span>
+      </div>
+      <div class="card-meta">
+        <span class="card-type text-label">Durasi</span>
+        <span class="card-date light">24 Jam</span>
+      </div> 
+      <div class="card-meta">
+        <span class="card-type text-label">Plus</span>
+        <span class="card-date light">Sopir</span>
+      </div>
+      <div class="card-link">
+        <p class="text-label">Plus Sopir</p>
+      </div>  
+    </div>
+  </div>  
+</a>
+{% endfor %}

@@ -1,0 +1,21 @@
+---
+layout: project
+title: Testimoni
+---
+{% for item in site.testimoni %}
+<div class="principle">
+  <div class="image">
+    <amp-img
+        noloading
+        width={{ item.gambar_width }}
+        height={{ item.gambar_height }}
+        layout=responsive
+        src="{{ item.gambar_pelanggan }}">
+    </amp-img>
+  </div>
+  <div class="text">
+    <h3>{{ item.nama_pelanggan }}</h3>
+    <p><p>{{ item.komentar }}</p></p>
+  </div>
+</div>
+{% endfor %}

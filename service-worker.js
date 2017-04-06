@@ -9,7 +9,7 @@ goog.swlib.cacheRevisionedAssets(self.__asset_manifest);
 // Runtime caching
 const staleWhileRevalidate = goog.swlib.staleWhileRevalidate();
 goog.swlib.router.registerRoute(/https:\/\/fonts\.googleapis\.com\/.*/, staleWhileRevalidate);
-goog.swlib.router.registerRoute(/https:\/\/rbrentcar\.com\/.*/, staleWhileRevalidate);
+goog.swlib.router.registerRoute(/https:\/\/cdn\.ampproject\.org\/.*/, staleWhileRevalidate);
 
 self.addEventListener('install', () => {
   self.skipWaiting();

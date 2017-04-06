@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ini adalah pos ke tiga
+title: Ini adalah pos ke tiga test
 penulis: Beru bin Ang
 gambar: https://www.yogyes.com/en/yogyakarta-transportation/car-rental/1.jpg
 ---

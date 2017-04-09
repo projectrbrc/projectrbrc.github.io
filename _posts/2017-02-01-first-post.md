@@ -3,6 +3,8 @@ layout: post
 title: Mobil-mobil-an
 penulis: Pintar bin Bejo
 gambar: http://sewamobilbalikpapan.net/wp-content/uploads/2014/11/sewa-mobil-balikpapan.jpg
+gambar_height: 698
+gambar_width: 1000
 ---
 <p>ini adalah paragraf pertama psot The average time it takes to fully load a mobile landing page is 22 seconds, according to a new analysis. Yet 53% of mobile site visitors leave a page that takes longer than three seconds to load. That&#8217;s a big problem.</p>
 

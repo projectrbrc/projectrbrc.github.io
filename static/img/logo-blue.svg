@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="palsu-logo-blue.svg">
+   sodipodi:docname="logo-blue.svg">
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -41,13 +41,16 @@
      inkscape:window-height="705"
      id="namedview10"
      showgrid="false"
-     inkscape:zoom="1.6971429"
-     inkscape:cx="87.500002"
-     inkscape:cy="30.000001"
+     inkscape:zoom="6.7885714"
+     inkscape:cx="88.077695"
+     inkscape:cy="25.133713"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-global="true" />
   <title
      id="title4">AMP-Brand-Blue</title>
   <text
@@ -69,4 +72,37 @@
      preserveAspectRatio="none"
      height="59.424244"
      width="58.835018" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:31.8485775px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1e90ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="78.861488"
+     y="25.085192"
+     id="text3336"
+     sodipodi:linespacing="125%"
+     transform="scale(0.84490692,1.1835623)"><tspan
+       sodipodi:role="line"
+       id="tspan3338"
+       x="78.861488"
+       y="25.085192"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Norasi;-inkscape-font-specification:Norasi;fill:#1e90ff">RB Trans</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:12.04949856px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1e90ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="89.08625"
+     y="42.376427"
+     id="text3340"
+     sodipodi:linespacing="125%"
+     transform="scale(0.87361874,1.1446641)"><tspan
+       sodipodi:role="line"
+       id="tspan3342"
+       x="89.08625"
+       y="42.376427"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Norasi;-inkscape-font-specification:Norasi;fill:#1e90ff">RODA BAROKAH</tspan></text>
+  <rect
+     style="opacity:0.347;fill:#0000cd;stroke:#4169e1;stroke-width:1"
+     id="rect4148"
+     width="107.09177"
+     height="0.10224111"
+     x="65.256737"
+     y="33.65469" />
 </svg>

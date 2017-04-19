@@ -4,5 +4,5 @@ gambar_height: 408
 gambar_width: 688
 jenis_kendaraan: Toyota Agya
 harga_12: Rp.350.000,-
-harga_24: Rp.400.000
+harga_24: Rp.400.000,-
 ---

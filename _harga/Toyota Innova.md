@@ -1,8 +1,8 @@
 ---
-image_path: https://c1.staticflickr.com/3/2871/33640501891_9e52663b0a_o.png
-gambar_height: 300
-gambar_width: 480
-jenis_kendaraan: Toyota Innova+sopir tidak termasuk bbm
+image_path: https://c1.staticflickr.com/3/2856/34134097565_dcdc4f0dcf_o.png
+gambar_height: 408
+gambar_width: 688
+jenis_kendaraan: Toyota Innova
 harga_12: Rp.500.000,-
 harga_24: Rp.550.000
 ---

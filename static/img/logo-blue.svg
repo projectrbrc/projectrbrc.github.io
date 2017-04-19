@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="209.90782"
+   width="233.86169"
    height="72.09259"
-   viewBox="0 0 209.90782 72.09259"
+   viewBox="0 0 233.86169 72.09259"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -84,35 +84,35 @@
      width="71.377754" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:38.6382103px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1e90ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="93.918594"
-     y="29.887671"
+     style="font-style:normal;font-weight:normal;font-size:42.20304489px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4169e1;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     x="108.26434"
+     y="32.247589"
      id="text3336"
      sodipodi:linespacing="125%"
      transform="scale(0.84490693,1.1835623)"><tspan
        sodipodi:role="line"
        id="tspan3338"
-       x="93.918594"
-       y="29.887671"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Norasi;-inkscape-font-specification:Norasi;fill:#1e90ff">RB Trans</tspan></text>
+       x="108.26434"
+       y="32.247589"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Norasi;-inkscape-font-specification:Norasi;fill:#4169e1;">RB Trans</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:14.61826992px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1e90ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="106.38081"
-     y="50.846603"
+     style="font-style:normal;font-weight:normal;font-size:15.96697903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4169e1;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     x="121.68963"
+     y="55.126724"
      id="text3340"
      sodipodi:linespacing="125%"
      transform="scale(0.87361874,1.1446641)"><tspan
        sodipodi:role="line"
        id="tspan3342"
-       x="106.38081"
-       y="50.846603"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Norasi;-inkscape-font-specification:Norasi;fill:#1e90ff">RODA BAROKAH</tspan></text>
+       x="121.68963"
+       y="55.126724"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Norasi;-inkscape-font-specification:Norasi;fill:#4169e1;">RODA BAROKAH</tspan></text>
   <rect
-     style="opacity:0.347;fill:#0000cd;stroke:#4169e1;stroke-width:1"
+     style="opacity:0.347;fill:#4169e1;stroke:#4169e1;stroke-width:1"
      id="rect4148"
-     width="129.92212"
-     height="0.12403737"
-     x="77.685707"
-     y="40.18396" />
+     width="141.90898"
+     height="0.1354813"
+     x="89.65271"
+     y="43.420856" />
 </svg>

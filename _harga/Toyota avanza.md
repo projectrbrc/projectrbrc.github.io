@@ -1,5 +1,5 @@
 ---
-image_path: https://c1.staticflickr.com/3/2818/33640594861_58bfeb4678_o.png
+image_path: 
 gambar_height: 400
 gambar_width: 640
 jenis_kendaraan: Toyota Avanza

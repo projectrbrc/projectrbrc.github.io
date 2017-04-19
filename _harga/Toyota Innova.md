@@ -4,5 +4,5 @@ gambar_height: 408
 gambar_width: 688
 jenis_kendaraan: Toyota Innova
 harga_12: Rp.500.000,-
-harga_24: Rp.550.000
+harga_24: Rp.550.000,-
 ---

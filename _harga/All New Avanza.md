@@ -4,5 +4,5 @@ gambar_height: 300
 gambar_width: 480
 jenis_kendaraan: All New Avanza / Ertiga
 harga_12: Rp.450.000,-
-harga_24: Rp.500.000
+harga_24: Rp.500.000,-
 ---

@@ -1,5 +1,5 @@
 ---
-image_path: https://c1.staticflickr.com/3/2818/33640594861_58bfeb4678_o.png
+image_path: http://toyota.com.af/wp-content/uploads/2014/03/avanza1.jpg
 gambar_height: 768
 gambar_width: 1366
 jenis_kendaraan: Toyota Avanza

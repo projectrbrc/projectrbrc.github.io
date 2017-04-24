@@ -2,7 +2,7 @@
 layout: post
 title: Mobil-mobil-an
 penulis: Pintar bin Bejo
-gambar: http://sewamobilbalikpapan.net/wp-content/uploads/2014/11/sewa-mobil-balikpapan.jpg
+gambar: https://4.bp.blogspot.com/-V1j59HorHsY/WP5099wntQI/AAAAAAAAfMk/1C04qGDqvHAOyiH8l7BprlNPz1krYFiLwCLcB/s1600/WhatsApp%2BImage%2B2017-04-23%2Bat%2B22.09.02.jpeg
 gambar_height: 698
 gambar_width: 1000
 ---

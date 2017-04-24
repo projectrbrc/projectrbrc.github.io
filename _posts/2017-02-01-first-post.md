@@ -3,8 +3,8 @@ layout: post
 title: Mobil-mobil-an
 penulis: Pintar bin Bejo
 gambar: https://4.bp.blogspot.com/-V1j59HorHsY/WP5099wntQI/AAAAAAAAfMk/1C04qGDqvHAOyiH8l7BprlNPz1krYFiLwCLcB/s1600/WhatsApp%2BImage%2B2017-04-23%2Bat%2B22.09.02.jpeg
-gambar_height: 698
-gambar_width: 1000
+gambar_height: 810
+gambar_width: 1080
 ---
 <p>ini adalah paragraf pertama psot The average time it takes to fully load a mobile landing page is 22 seconds, according to a new analysis. Yet 53% of mobile site visitors leave a page that takes longer than three seconds to load. That&#8217;s a big problem.</p>
 
@@ -13,9 +13,9 @@ gambar_width: 1000
 <div class="wp-image  size-full wp-image-1141 aligncenter">
 	<amp-img 
 		layout='responsive' 
-		width="1000" 
-		height="698" 
-		src="http://sewamobilbalikpapan.net/wp-content/uploads/2014/11/sewa-mobil-balikpapan.jpg">
+		width="1080" 
+		height="810" 
+		src="https://4.bp.blogspot.com/-V1j59HorHsY/WP5099wntQI/AAAAAAAAfMk/1C04qGDqvHAOyiH8l7BprlNPz1krYFiLwCLcB/s1600/WhatsApp%2BImage%2B2017-04-23%2Bat%2B22.09.02.jpeg">
 	</amp-img>
 </div>
 

@@ -24,11 +24,10 @@ hir		layout='responsive'
 </p>
 
 <p></p>
-<p>RB Rentcar Client Bapak Hendrik Indomarco Tulungagung, Armada: Isuzu Elf Short 2015, Lama Trip: 32 Jam</p>
-<p>Perjalanan Dimulai dari Tulungagung pada 14 Desember 2016 Pukul 23.00, Lama perjalanan Ke jogjakarta 6 Jam melalui Wonogiri- Solo- Klaten- Jogjakarta</p>
+<p>RB Rentcar Client Bapak Sunyoto, Wedding function, Armada: Grand New Avanza 2 unit</p>
 
 <div>
-<p>Tiba di Jogjakarta pada 15 Desember 2016 Pukul 05.00 Setelah sholat subuh kami melanjutkan  ke Pantai Parangtritis, Dilanjutkan Ke Hutan Imogiri dan Area Wonosari Pantai Pindul.</p>
-<p>Menjelang sore kami kembali ke Kota Jogjakarta menikmati sore di De Mata lalu berakhir menjelang malam di Malioboro dan kembali ke Tulungagung pukul 22.00, Terimakasih Bapak Hendrik Indomarco Atas Kepercayaanya menggunakan jasa kami.</p>
+<p>Acara pernikahan Bpk. Hendra dan Ibu Sherly di gedung serbaguna Diandra diteruskan acara keluarga selama 2 hari di toedjoh enam guest house Surabaya</p>
+<p>Terimakasih Bapak Sunyoto dan keuarga Atas Kepercayaanya menggunakan jasa kami.</p>
 </div>
 

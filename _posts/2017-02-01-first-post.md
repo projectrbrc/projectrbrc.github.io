@@ -6,13 +6,13 @@ gambar: https://4.bp.blogspot.com/-V1j59HorHsY/WP5099wntQI/AAAAAAAAfMk/1C04qGDqv
 gambar_height: 810
 gambar_width: 1080
 ---
-<p>RB Rentcar on the trip to jogjakarta 15 November 2016</p>
+<p>RB Rentcar Wedding Function</p>
 
 <div class="post-content">
 	<div class="amp-wp-article-content">
 <div class="wp-image  size-full wp-image-1141 aligncenter">
 	<amp-img 
-hir		layout='responsive' 
+		layout='responsive' 
 		width="1080" 
 		height="810" 
 		src="https://4.bp.blogspot.com/-V1j59HorHsY/WP5099wntQI/AAAAAAAAfMk/1C04qGDqvHAOyiH8l7BprlNPz1krYFiLwCLcB/s1600/WhatsApp%2BImage%2B2017-04-23%2Bat%2B22.09.02.jpeg">

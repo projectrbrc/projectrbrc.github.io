@@ -7,6 +7,7 @@ gambar_height: 780
 gambar_width: 1040
 ---
 <p>RB Rentcar dan  Golden Rama Tour and Travel Surabaya bersama  Anggota GKI Surabaya</p>
+
 <div class="post-content">
 	<div class="amp-wp-article-content">
 <div class="wp-image  size-full wp-image-1141 aligncenter">

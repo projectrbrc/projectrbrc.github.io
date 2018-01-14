@@ -10,8 +10,8 @@ gambar_width: 1040
 <div class="post-content">
 	<div class="amp-wp-article-content">
 <div class="wp-image  size-full wp-image-1141 aligncenter">
-	<amp-img 
-hir		layout='responsive' 
+	<amp-img
+		layout='responsive' 
 		width="1040" 
 		height="780" 
 		src="https://1.bp.blogspot.com/--hSetVuSjog/Wlsu7Z31dUI/AAAAAAAApNU/vNWXZ4HzntIed4RPbA7xh6DxcJBvLOHcACLcBGAs/s1600/WhatsApp%2BImage%2B2018-01-12%2Bat%2B05.35.12.jpeg">

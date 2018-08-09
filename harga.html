@@ -1,6 +1,7 @@
 ---
 layout: price
 title: Harga Sewa
+canonical: https://rbrentcar.com/harga.html
 ---
 {% for item in site.harga %}
 <a class="card">
@@ -15,25 +16,25 @@ title: Harga Sewa
     <div class="card-title">
       <h4><b>{{ item.jenis_kendaraan }}</b></h4>
       <div class="card-meta">
-        <span class="card-type text-label">Harga</span>
-        <span class="card-date light">{{ item.harga_12 }}</span>
+        <span class="card-type text-label">Self Drive</span>
+        <span class="card-date light">{{ item.selfdrive }}</span>
       </div>
       <div class="card-meta">
-        <span class="card-type text-label">Durasi</span>
-        <span class="card-date light">12 Jam</span>
+        <span class="card-type text-label">Plus Sopir</span>
+        <span class="card-date light">{{ item.plussopir10jam }}</span>
       </div>
       <div class="card-meta">
-        <span class="card-type text-label">Harga</span>
-        <span class="card-date light">{{ item.harga_24 }}</span>
+        <span class="card-type text-label">Plus Sopir</span>
+        <span class="card-date light">{{ item.plussopir12jam }}</span>
       </div>
       <div class="card-meta">
-        <span class="card-type text-label">Durasi</span>
-        <span class="card-date light">24 Jam</span>
+        <span class="card-type text-label">Luar kota</span>
+        <span class="card-date light">{{ item.luarkota }}</span>
       </div> 
-      <div class="card-meta">
+      <!-- <div class="card-meta">
         <span class="card-type text-label">Plus</span>
         <span class="card-date light">Sopir</span>
-      </div> 
+      </div> --> 
     </div>
   </div>  
 </a>

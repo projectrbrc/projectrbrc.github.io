@@ -14,8 +14,8 @@ canonical: https://rbrentcar.com/2022-06-02-rental-wedding-car.html
 <div class="wp-image  size-full wp-image-1141 aligncenter">
 	<amp-img
 		layout='responsive' 
-		width="1040" 
-		height="780" 
+		width="320" 
+		height="240" 
 		src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrqtpjpbtqgO7-X3jq9rsQLtq29zm6bpnLhjcCxUJ7lyujs-jkhzAveo7s9r2S-4mSzMDtU0yVo_V0EdQFzDEvnZPmyolziCSkkX6arwsOyK4jGkOmDp_IEpCleeX_FINQQdzJN7jtkSXfCejvlLPT_ZNps7weGDk6SVJ_Svm0_2S-cFzaFsgpnlBL/s320/IMG_20180308_115045.jpg">
 	</amp-img>
 </div>
